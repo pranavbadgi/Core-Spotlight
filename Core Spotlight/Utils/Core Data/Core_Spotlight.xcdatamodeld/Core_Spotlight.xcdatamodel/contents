@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="20086" systemVersion="21F79" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MeetingItem" representedClassName="MeetingItem" syncable="YES">
+        <attribute name="dateAndTime" optional="YES" attributeType="String"/>
+        <attribute name="hostedBy" optional="YES" attributeType="String"/>
+        <attribute name="meetingName" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="MeetingItem" positionX="-63" positionY="-18" width="128" height="74"/>
+    </elements>
+</model>
